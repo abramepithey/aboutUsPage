@@ -1,0 +1,9 @@
+.container {
+    position: fixed;
+    text-align: left;
+}
+
+.pictures {
+    height: 300px;
+    width: 30%;
+}
